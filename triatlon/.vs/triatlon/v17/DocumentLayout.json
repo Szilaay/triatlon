@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\szucs.szilard\\Desktop\\triatlon\\triatlon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA232D3-C1A9-4301-BE99-41720C41B196}|triatlon\\triatlon.csproj|c:\\users\\szucs.szilard\\desktop\\triatlon\\triatlon\\triatlon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA232D3-C1A9-4301-BE99-41720C41B196}|triatlon\\triatlon.csproj|solutionrelative:triatlon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA232D3-C1A9-4301-BE99-41720C41B196}|triatlon\\triatlon.csproj|c:\\users\\szucs.szilard\\desktop\\triatlon\\triatlon\\triatlon\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA232D3-C1A9-4301-BE99-41720C41B196}|triatlon\\triatlon.csproj|solutionrelative:triatlon\\versenyzok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Versenyzok.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\triatlon\\triatlon\\triatlon\\Versenyzok.cs",
+              "RelativeDocumentMoniker": "triatlon\\Versenyzok.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\triatlon\\triatlon\\triatlon\\Versenyzok.cs",
+              "RelativeToolTip": "triatlon\\Versenyzok.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:59:56.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\szucs.szilard\\Desktop\\triatlon\\triatlon\\triatlon\\Program.cs",
+              "RelativeDocumentMoniker": "triatlon\\Program.cs",
+              "ToolTip": "C:\\Users\\szucs.szilard\\Desktop\\triatlon\\triatlon\\triatlon\\Program.cs",
+              "RelativeToolTip": "triatlon\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:59:38.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

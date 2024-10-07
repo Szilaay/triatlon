@@ -1,0 +1,7 @@
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\obj\Debug\triatlon.csproj.AssemblyReference.cache
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\obj\Debug\triatlon.csproj.CoreCompileInputs.cache
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\bin\Debug\triatlon.exe.config
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\bin\Debug\triatlon.exe
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\bin\Debug\triatlon.pdb
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\obj\Debug\triatlon.exe
+C:\Users\szucs.szilard\Desktop\triatlon\triatlon\triatlon\obj\Debug\triatlon.pdb
